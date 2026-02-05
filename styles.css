@@ -1,0 +1,11 @@
+.bandera {
+    display: inline-block;
+}
+img {
+    max-width: 20%;
+}
+body{
+    font-family: 'Lucida Sans';
+    color: rgb(28, 28, 28);
+    background-color: rgb(91, 215, 198);
+}
